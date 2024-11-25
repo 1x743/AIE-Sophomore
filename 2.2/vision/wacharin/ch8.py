@@ -25,6 +25,7 @@ gray_foreground_mask = cv2.cvtColor(foreground_mask, cv2.COLOR_BGR2GRAY)
 _, binary_mask = cv2.threshold(gray_foreground_mask, 50, 255, cv2.THRESH_BINARY)
 
 # Display the results
+print("My ID is: 6610110096")
 cv2.imshow('Average Background', average_background)
 cv2.imshow('Foreground Mask', gray_foreground_mask)
 cv2.waitKey(0)
