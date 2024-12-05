@@ -18,7 +18,7 @@ cimg = cv2.cvtColor(img, cv2.COLOR_GRAY2BGR)
 
 # Detect circles using Hough Transform
 circles = cv2.HoughCircles(img, cv2.HOUGH_GRADIENT, 1, 50,
-                           param1=200, param2=20, minRadius=30, maxRadius=90)
+                           param1=200, param2=20, minRadius=30, maxRadius=95)
 if circles is not None:
     circles = np.uint16(np.around(circles))
 
