@@ -14,7 +14,6 @@ int main() {
 
     printf("\nUsing do/while loop:\n");
     do {
-        printf("%d %d\n", i, j);
         i++;
         j -= 2;
     } while (i <= 5);
