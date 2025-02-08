@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\",
+  "WorkspaceRootPath": "C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|solutionrelative:6610110096\\CameraForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "AbsoluteMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
       "RelativeMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|solutionrelative:6610110096\\CameraForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "AbsoluteMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
       "RelativeMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|solutionrelative:6610110096\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|solutionrelative:6610110096\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F5A2D497-C624-405B-B7B0-87111648902D}|6610110096\\6610110096.vcxproj|solutionrelative:6610110096\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -36,63 +36,60 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CameraForm.h",
-              "DocumentMoniker": "C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h",
+              "DocumentMoniker": "C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h",
               "RelativeDocumentMoniker": "6610110096\\CameraForm.h",
-              "ToolTip": "C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h",
+              "ToolTip": "C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h",
               "RelativeToolTip": "6610110096\\CameraForm.h",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAAIoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAlwBYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-22T02:38:44.6Z",
+              "WhenOpened": "2025-01-25T09:54:35.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CameraForm.h [Design]",
-              "DocumentMoniker": "C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h",
+              "DocumentMoniker": "C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h",
               "RelativeDocumentMoniker": "6610110096\\CameraForm.h",
-              "ToolTip": "C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h [Design]",
+              "ToolTip": "C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\CameraForm.h [Design]",
               "RelativeToolTip": "6610110096\\CameraForm.h [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-22T02:34:08.265Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyForm.h [Design]",
-              "DocumentMoniker": "C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h",
-              "RelativeDocumentMoniker": "6610110096\\MyForm.h",
-              "ToolTip": "C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h [Design]",
-              "RelativeToolTip": "6610110096\\MyForm.h [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-22T02:30:09.979Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-25T09:54:27.013Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MyForm.h",
-              "DocumentMoniker": "C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h",
+              "DocumentMoniker": "C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h",
               "RelativeDocumentMoniker": "6610110096\\MyForm.h",
-              "ToolTip": "C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h",
+              "ToolTip": "C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h",
               "RelativeToolTip": "6610110096\\MyForm.h",
-              "ViewState": "AgIAAGUCAAAAAAAAAAAIwGsCAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAH8CAAAAAAAAAAAUwIkCAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-18T09:38:39.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T09:42:13.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h",
+              "RelativeDocumentMoniker": "6610110096\\MyForm.h",
+              "ToolTip": "C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\MyForm.h [Design]",
+              "RelativeToolTip": "6610110096\\MyForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-25T09:36:13.611Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\Main.cpp",
               "RelativeDocumentMoniker": "6610110096\\Main.cpp",
-              "ToolTip": "C:\\Users\\lataeq\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\Main.cpp",
+              "ToolTip": "C:\\Users\\1473Q\\Code\\AIE-Sophomore\\semester - 2\\Module\\sahapong\\6610110096\\6610110096\\Main.cpp",
               "RelativeToolTip": "6610110096\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-18T09:28:22.396Z"
+              "WhenOpened": "2025-01-25T09:36:04.644Z"
             }
           ]
         }

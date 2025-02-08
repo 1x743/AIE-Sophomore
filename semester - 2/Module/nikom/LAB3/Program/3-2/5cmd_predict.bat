@@ -1,0 +1,16 @@
+sd.exe -image Bad_(1)_threshold_region\Bad_(1)_threshold_region1.jpg -load model.xml
+sd.exe -image Bad_(2)_threshold_region\Bad_(2)_threshold_region2.jpg -load model.xml
+sd.exe -image Bad_(3)_threshold_region\Bad_(3)_threshold_region3.jpg -load model.xml
+sd.exe -image Bad_(4)_threshold_region\Bad_(4)_threshold_region4.jpg -load model.xml
+sd.exe -image Bad_(5)_threshold_region\Bad_(5)_threshold_region1.jpg -load model.xml
+sd.exe -image Bad_(6)_threshold_region\Bad_(6)_threshold_region2.jpg -load model.xml
+sd.exe -image Bad_(7)_threshold_region\Bad_(7)_threshold_region3.jpg -load model.xml
+sd.exe -image Bad_(8)_threshold_region\Bad_(8)_threshold_region4.jpg -load model.xml
+sd.exe -image Bad_(9)_threshold_region\Bad_(9)_threshold_region1.jpg -load model.xml
+sd.exe -image Bad_(10)_threshold_region\Bad_(10)_threshold_region2.jpg -load model.xml
+sd.exe -image Good_(1)_threshold_region\Good_(1)_threshold_region1.jpg -load model.xml
+sd.exe -image Good_(2)_threshold_region\Good_(2)_threshold_region2.jpg -load model.xml
+sd.exe -image Good_(3)_threshold_region\Good_(3)_threshold_region3.jpg -load model.xml
+sd.exe -image Good_(4)_threshold_region\Good_(4)_threshold_region4.jpg -load model.xml
+sd.exe -image Good_(5)_threshold_region\Good_(5)_threshold_region5.jpg -load model.xml
+sd.exe -image Good_(6)_threshold_region\Good_(6)_threshold_region6.jpg -load model.xml

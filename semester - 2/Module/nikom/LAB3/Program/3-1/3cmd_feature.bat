@@ -1,0 +1,10 @@
+LprFeature.exe p00.txt in.txt out.txt 0 10
+LprFeature.exe p10.txt in.txt out.txt 1 10
+LprFeature.exe p20.txt in.txt out.txt 2 10
+LprFeature.exe p30.txt in.txt out.txt 3 10
+LprFeature.exe p40.txt in.txt out.txt 4 10
+LprFeature.exe p50.txt in.txt out.txt 5 10
+LprFeature.exe p60.txt in.txt out.txt 6 10
+LprFeature.exe p70.txt in.txt out.txt 7 10
+LprFeature.exe p80.txt in.txt out.txt 8 10
+LprFeature.exe p90.txt in.txt out.txt 9 10

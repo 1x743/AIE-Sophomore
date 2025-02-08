@@ -1,0 +1,10 @@
+dir /s /b p00 > p00.txt
+dir /s /b p10 > p10.txt
+dir /s /b p20 > p20.txt
+dir /s /b p30 > p30.txt
+dir /s /b p40 > p40.txt
+dir /s /b p50 > p50.txt
+dir /s /b p60 > p60.txt
+dir /s /b p70 > p70.txt
+dir /s /b p80 > p80.txt
+dir /s /b p90 > p90.txt

@@ -31,6 +31,7 @@ namespace My6610110096 {
         System::Drawing::Point^ startPoint; // Starting point of the drawing
     private: System::Windows::Forms::Panel^ pictureBoxPanel;
     private: System::Windows::Forms::ToolStripButton^ toolStripButton6;
+    private: System::Windows::Forms::ToolStripStatusLabel^ pixelPointLabel;
            Bitmap^ tmpImage;                  // Temporary image used for drawing
 
     public:
@@ -85,7 +86,7 @@ namespace My6610110096 {
     private: System::Windows::Forms::ToolStripButton^ toolStripButton3;
     private: System::Windows::Forms::StatusStrip^ statusStrip;
     private: System::Windows::Forms::ToolStripStatusLabel^ statusLabel;
-    private: System::Windows::Forms::ToolStripStatusLabel^ pixelPointLabel;
+
     private: System::Windows::Forms::ToolStripStatusLabel^ pixelColorLabel;
     private: System::Windows::Forms::ToolStripStatusLabel^ imageSizeLabel;
 
@@ -115,7 +116,6 @@ namespace My6610110096 {
             this->toolStripContainer = (gcnew System::Windows::Forms::ToolStripContainer());
             this->statusStrip = (gcnew System::Windows::Forms::StatusStrip());
             this->statusLabel = (gcnew System::Windows::Forms::ToolStripStatusLabel());
-            this->pixelPointLabel = (gcnew System::Windows::Forms::ToolStripStatusLabel());
             this->pixelColorLabel = (gcnew System::Windows::Forms::ToolStripStatusLabel());
             this->imageSizeLabel = (gcnew System::Windows::Forms::ToolStripStatusLabel());
             this->pictureBoxPanel = (gcnew System::Windows::Forms::Panel());
@@ -140,6 +140,7 @@ namespace My6610110096 {
             this->eventLog1 = (gcnew System::Diagnostics::EventLog());
             this->openFileDialog = (gcnew System::Windows::Forms::OpenFileDialog());
             this->saveFileDialog = (gcnew System::Windows::Forms::SaveFileDialog());
+            this->pixelPointLabel = (gcnew System::Windows::Forms::ToolStripStatusLabel());
             this->toolStripContainer->BottomToolStripPanel->SuspendLayout();
             this->toolStripContainer->ContentPanel->SuspendLayout();
             this->toolStripContainer->TopToolStripPanel->SuspendLayout();
@@ -179,8 +180,8 @@ namespace My6610110096 {
             // 
             this->statusStrip->Dock = System::Windows::Forms::DockStyle::None;
             this->statusStrip->Items->AddRange(gcnew cli::array< System::Windows::Forms::ToolStripItem^  >(4) {
-                this->pixelPointLabel,
-                    this->statusLabel, this->pixelColorLabel, this->imageSizeLabel
+                this->statusLabel, this->pixelPointLabel,
+                    this->pixelColorLabel, this->imageSizeLabel
             });
             this->statusStrip->Location = System::Drawing::Point(0, 0);
             this->statusStrip->Name = L"statusStrip";
@@ -190,17 +191,9 @@ namespace My6610110096 {
             // statusLabel
             // 
             this->statusLabel->Name = L"statusLabel";
-            this->statusLabel->Size = System::Drawing::Size(208, 17);
+            this->statusLabel->Size = System::Drawing::Size(406, 17);
             this->statusLabel->Spring = true;
             this->statusLabel->Text = L"toolStripStatusLabel1";
-            // 
-            // pixelPointLabel
-            // 
-            this->pixelPointLabel->Image = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"pixelPointLabel.Image")));
-            this->pixelPointLabel->Name = L"pixelPointLabel";
-            this->pixelPointLabel->Size = System::Drawing::Size(40, 17);
-            this->pixelPointLabel->Text = L"X,Y";
-            this->pixelPointLabel->Visible = false;
             // 
             // pixelColorLabel
             // 
@@ -311,7 +304,7 @@ namespace My6610110096 {
             // 
             this->drawLineToolStripMenuItem->Image = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"drawLineToolStripMenuItem.Image")));
             this->drawLineToolStripMenuItem->Name = L"drawLineToolStripMenuItem";
-            this->drawLineToolStripMenuItem->Size = System::Drawing::Size(155, 22);
+            this->drawLineToolStripMenuItem->Size = System::Drawing::Size(180, 22);
             this->drawLineToolStripMenuItem->Text = L"Draw Line";
             this->drawLineToolStripMenuItem->Click += gcnew System::EventHandler(this, &MyForm::drawLineToolStripMenuItem_Click);
             // 
@@ -319,14 +312,14 @@ namespace My6610110096 {
             // 
             this->drawEllipseToolStripMenuItem->Image = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"drawEllipseToolStripMenuItem.Image")));
             this->drawEllipseToolStripMenuItem->Name = L"drawEllipseToolStripMenuItem";
-            this->drawEllipseToolStripMenuItem->Size = System::Drawing::Size(155, 22);
+            this->drawEllipseToolStripMenuItem->Size = System::Drawing::Size(180, 22);
             this->drawEllipseToolStripMenuItem->Text = L"Draw Ellipse";
             this->drawEllipseToolStripMenuItem->Click += gcnew System::EventHandler(this, &MyForm::drawEllipseToolStripMenuItem_Click);
             // 
             // convertHSVToolStripMenuItem
             // 
             this->convertHSVToolStripMenuItem->Name = L"convertHSVToolStripMenuItem";
-            this->convertHSVToolStripMenuItem->Size = System::Drawing::Size(155, 22);
+            this->convertHSVToolStripMenuItem->Size = System::Drawing::Size(180, 22);
             this->convertHSVToolStripMenuItem->Text = L"Convert to HSV";
             this->convertHSVToolStripMenuItem->Click += gcnew System::EventHandler(this, &MyForm::convertHSVToolStripMenuItem_Click);
             // 
@@ -339,7 +332,7 @@ namespace My6610110096 {
             });
             this->toolStrip->Location = System::Drawing::Point(3, 24);
             this->toolStrip->Name = L"toolStrip";
-            this->toolStrip->Size = System::Drawing::Size(150, 25);
+            this->toolStrip->Size = System::Drawing::Size(181, 25);
             this->toolStrip->TabIndex = 1;
             // 
             // toolStripButton1
@@ -415,6 +408,14 @@ namespace My6610110096 {
             // 
             this->saveFileDialog->DefaultExt = L"png";
             this->saveFileDialog->Filter = L"Image files|*.jpg;*.png";
+            // 
+            // pixelPointLabel
+            // 
+            this->pixelPointLabel->Image = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"pixelPointLabel.Image")));
+            this->pixelPointLabel->Name = L"pixelPointLabel";
+            this->pixelPointLabel->Size = System::Drawing::Size(40, 17);
+            this->pixelPointLabel->Text = L"X,Y";
+            this->pixelPointLabel->Visible = false;
             // 
             // MyForm
             // 
@@ -573,23 +574,44 @@ namespace My6610110096 {
             MessageBox::Show("No image loaded. Please load an image first.", "Error", MessageBoxButtons::OK, MessageBoxIcon::Error);
             return;
         }
+        // Verify Pixel Format
+        if (bmp->PixelFormat != System::Drawing::Imaging::PixelFormat::Format24bppRgb) {
+            MessageBox::Show("Unsupported Pixel Format. Only 24bpp images are supported.", "Error", MessageBoxButtons::OK, MessageBoxIcon::Error);
+            return;
+        }
+
         // Lock Bitmap Bits
         Rectangle rect = Rectangle(0, 0, bmp->Width, bmp->Height);
         System::Drawing::Imaging::BitmapData^ bmpData =
             bmp->LockBits(rect, System::Drawing::Imaging::ImageLockMode::ReadWrite, bmp->PixelFormat);
-        // Using OpenCV: Create Image with data pointer
-        cv::Mat image(bmp->Height, bmp->Width, CV_8UC3, bmpData->Scan0.ToPointer(), bmpData->Stride);
-        // Convert BGR to HSV
-        cv::Mat hsvImage;
-        cv::cvtColor(image, hsvImage, cv::COLOR_BGR2HSV);
-        // Copy HSV image back to Bitmap
-        std::memcpy(bmpData->Scan0.ToPointer(), hsvImage.data, bmp->Height * bmpData->Stride);
+
+        try {
+            // Using OpenCV: Create Image with data pointer
+            cv::Mat image(bmp->Height, bmp->Width, CV_8UC3, bmpData->Scan0.ToPointer(), bmpData->Stride);
+
+            // Convert BGR to HSV
+            cv::Mat hsvImage;
+            cv::cvtColor(image, hsvImage, cv::COLOR_BGR2HSV);
+
+            // Verify size before copying data back
+            if (hsvImage.total() * hsvImage.elemSize() != bmp->Height * bmpData->Stride) {
+                throw std::runtime_error("Image size mismatch during conversion.");
+            }
+
+            // Copy HSV image back to Bitmap
+            std::memcpy(bmpData->Scan0.ToPointer(), hsvImage.data, bmp->Height * bmpData->Stride);
+        }
+        catch (const std::exception& ex) {
+            MessageBox::Show(gcnew System::String(ex.what()), "Error", MessageBoxButtons::OK, MessageBoxIcon::Error);
+        }
+
         // Unlock Bitmap Bits
         bmp->UnlockBits(bmpData);
 
         // Update PictureBox
         pictureBox->Image = bmp;
     }
+
 
     private: System::Void saveFileMenu_Click(System::Object^ sender, System::EventArgs^ e) {
         if (bmp != nullptr) {

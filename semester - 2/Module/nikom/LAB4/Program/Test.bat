@@ -1,0 +1,16 @@
+LAB4.exe Bad_(1).jpg
+LAB4.exe Bad_(2).jpg
+LAB4.exe Bad_(3).jpg
+LAB4.exe Bad_(4).jpg
+LAB4.exe Bad_(5).jpg
+LAB4.exe Bad_(6).jpg
+LAB4.exe Bad_(7).jpg
+LAB4.exe Bad_(8).jpg
+LAB4.exe Bad_(9).jpg
+LAB4.exe Bad_(10).jpg
+LAB4.exe Good_(1).jpg
+LAB4.exe Good_(2).jpg
+LAB4.exe Good_(3).jpg
+LAB4.exe Good_(4).jpg
+LAB4.exe Good_(5).jpg
+LAB4.exe Good_(6).jpg

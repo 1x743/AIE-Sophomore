@@ -1,0 +1,16 @@
+dir /s /b Bad_(1)_threshold_region > Bad_(1)_threshold_region.txt
+dir /s /b Bad_(2)_threshold_region > Bad_(2)_threshold_region.txt
+dir /s /b Bad_(3)_threshold_region > Bad_(3)_threshold_region.txt
+dir /s /b Bad_(4)_threshold_region > Bad_(4)_threshold_region.txt
+dir /s /b Bad_(5)_threshold_region > Bad_(5)_threshold_region.txt
+dir /s /b Bad_(6)_threshold_region > Bad_(6)_threshold_region.txt
+dir /s /b Bad_(7)_threshold_region > Bad_(7)_threshold_region.txt
+dir /s /b Bad_(8)_threshold_region > Bad_(8)_threshold_region.txt
+dir /s /b Bad_(9)_threshold_region > Bad_(9)_threshold_region.txt
+dir /s /b Bad_(10)_threshold_region > Bad_(10)_threshold_region.txt
+dir /s /b Good_(1)_threshold_region > Good_(1)_threshold_region.txt
+dir /s /b Good_(2)_threshold_region > Good_(2)_threshold_region.txt
+dir /s /b Good_(3)_threshold_region > Good_(3)_threshold_region.txt
+dir /s /b Good_(4)_threshold_region > Good_(4)_threshold_region.txt
+dir /s /b Good_(5)_threshold_region > Good_(5)_threshold_region.txt
+dir /s /b Good_(6)_threshold_region > Good_(6)_threshold_region.txt

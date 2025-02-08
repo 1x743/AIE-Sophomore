@@ -1,0 +1,16 @@
+LprGenerate.exe Bad_(1)_threshold_region.png
+LprGenerate.exe Bad_(2)_threshold_region.png
+LprGenerate.exe Bad_(3)_threshold_region.png
+LprGenerate.exe Bad_(4)_threshold_region.png
+LprGenerate.exe Bad_(5)_threshold_region.png
+LprGenerate.exe Bad_(6)_threshold_region.png
+LprGenerate.exe Bad_(7)_threshold_region.png
+LprGenerate.exe Bad_(8)_threshold_region.png
+LprGenerate.exe Bad_(9)_threshold_region.png
+LprGenerate.exe Bad_(10)_threshold_region.png
+LprGenerate.exe Good_(1)_threshold_region.png
+LprGenerate.exe Good_(2)_threshold_region.png
+LprGenerate.exe Good_(3)_threshold_region.png
+LprGenerate.exe Good_(4)_threshold_region.png
+LprGenerate.exe Good_(5)_threshold_region.png
+LprGenerate.exe Good_(6)_threshold_region.png

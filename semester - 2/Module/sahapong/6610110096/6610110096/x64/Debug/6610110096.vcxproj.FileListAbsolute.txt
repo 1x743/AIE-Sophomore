@@ -5,3 +5,7 @@ C:\Users\lataeq\Code\AIE-Sophomore\semester - 2\Module\sahapong\6610110096\66101
 C:\Users\lataeq\Code\AIE-Sophomore\semester - 2\Module\sahapong\6610110096\6610110096\x64\Debug\My6610110096.MyForm.resources
 C:\Users\lataeq\Code\AIE-Sophomore\semester - 2\Module\sahapong\6610110096\6610110096\x64\Debug\6610110096.vcxproj.GenerateResource.cache
 C:\Users\lataeq\Code\AIE-Sophomore\semester - 2\Module\sahapong\6610110096\6610110096\x64\Debug\My6610110096.CameraForm.resources
+C:\Users\1473Q\Code\AIE-Sophomore\semester - 2\Module\sahapong\6610110096\6610110096\x64\Debug\6610110096.vcxproj.AssemblyReference.cache
+C:\Users\1473Q\Code\AIE-Sophomore\semester - 2\Module\sahapong\6610110096\6610110096\x64\Debug\My6610110096.CameraForm.resources
+C:\Users\1473Q\Code\AIE-Sophomore\semester - 2\Module\sahapong\6610110096\6610110096\x64\Debug\My6610110096.MyForm.resources
+C:\Users\1473Q\Code\AIE-Sophomore\semester - 2\Module\sahapong\6610110096\6610110096\x64\Debug\6610110096.vcxproj.GenerateResource.cache
